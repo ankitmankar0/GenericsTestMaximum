@@ -28,8 +28,6 @@ namespace FindMaxValue
             }
         }
 
-
-
         static void Main(string[] args)
         {
             Program obj = new Program();
@@ -37,8 +35,5 @@ namespace FindMaxValue
             Console.WriteLine(maxValue);
             Console.ReadLine();
         }
-
-
     }
-
 }
